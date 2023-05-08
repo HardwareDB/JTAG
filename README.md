@@ -12,6 +12,7 @@ guide:
 https://www.youtube.com/results?search_query=jtag+xbox+360
 
 - [Jtag/RGH/R-Jtag/Flashed Xbox 360's Discussion/Guide for Beginners](https://youtu.be/VGskk9KfN00)
+- [How To R-JTAG your Xbox 360 ! - Part 1 - The Basics ! [HD]](https://youtu.be/87dItOaGrb4)
 
 # Channel: MODDED WARFARE
 https://www.youtube.com/@MODDEDWARFARE
